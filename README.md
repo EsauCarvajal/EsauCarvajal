@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hola, soy Esaú 👋
-
 ### *"All models are wrong, but some are useful"*
 *— George E. P. Box, Statistician & Professor at the University of Wisconsin*
+---
+
+# Hola, soy Esaú 👋
 
 *Ingeniero Civil · Analista de Datos · Junior Data Scientist*
 
