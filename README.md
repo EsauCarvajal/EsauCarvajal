@@ -2,8 +2,6 @@
 
 # Hola, soy Esaú 👋
 
-### Construyendo soluciones de datos impulsadas por IA
-
 *Ingeniero Civil · Analista de Datos · Junior Data Scientist*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esauca/)
@@ -57,5 +55,9 @@ Soy Ingeniero Civil con especialización en **Visual Analytics y Big Data**, en 
 
 ---
 
+<div align="center">
+
 ### *"All models are wrong, but some are useful"*
 *— George E. P. Box, Statistician & Professor at the University of Wisconsin*
+
+</div>
