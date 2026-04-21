@@ -21,6 +21,7 @@ Soy Ingeniero Civil con especialización en **Visual Analytics y Big Data**, en 
 - 🎓 Especialista en **Visual Analytics y Big Data**
 - ☁️ Certificado en **AWS Cloud Foundations**
 - 🌎 Resido en **Medellín, Colombia**
+- 💬 Inglés C1
 - 🔍 Abierto a oportunidades en **Data Analytics & Data Science**
 
 ---
@@ -52,4 +53,4 @@ Soy Ingeniero Civil con especialización en **Visual Analytics y Big Data**, en 
 | ☁️ AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2025 |
 | 📊 Data Analysis with Python | IBM / Coursera | 2025 |
 | 🏗️ Bootcamp Arquitectura en la Nube Nivel Exploratorio | AWS | 2025 |
-
+| 💬 APTIS — Inglés C1 | British Council | 2024 |
