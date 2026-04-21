@@ -2,7 +2,8 @@
 
 # Hola, soy Esaú 👋
 
-### Construyendo soluciones de datos impulsadas por IA
+### *"All models are wrong, but some are useful"*
+*— George E. P. Box, Statistician & Professor at the University of Wisconsin*
 
 *Ingeniero Civil · Analista de Datos · Junior Data Scientist*
 
