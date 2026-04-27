@@ -2,8 +2,6 @@
 
 # Hola, soy Esaú 👋
 
-*Ingeniero Civil · Analista de Datos · Junior Data Scientist*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esauca/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/XEsau#8823)
 [![Portafolio](https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://esaucarvajal.github.io/portafolio/)
@@ -14,10 +12,8 @@
 
 ## 👤 Sobre mí
 
-Soy Ingeniero Civil con especialización en **Visual Analytics y Big Data**, en transición hacia el mundo del **Data Science e Inteligencia Artificial**. Me apasiona encontrar patrones en los datos y construir soluciones que generen impacto real.
+Soy Ingeniero Civil con especialización en **Visual Analytics y Big Data**, me gusta el mundo del **Data Science**. Me apasiona encontrar patrones en los datos y construir soluciones que generen impacto real.
 
-- 🎓 Especialista en **Visual Analytics y Big Data**
-- ☁️ Certificado en **AWS Cloud Foundations**
 - 🌎 Resido en **Medellín, Colombia**
 - 💬 Inglés C1
 - 🔍 Abierto a oportunidades en **Data Analytics & Data Science**
@@ -50,6 +46,7 @@ Soy Ingeniero Civil con especialización en **Visual Analytics y Big Data**, en 
 | Certificación | Institución | Año |
 |--------------|-------------|-----|
 | 🎓 Especialización en Visual Analytics y Big Data | Fundación Universitaria Internacional de la Rioja | 2026 |
+| 💻 Programa especializado: HTML, CSS, and Javascript for Web Developers | Johns Hopkins University / Coursera | 2026 |
 | ☁️ AWS Academy Graduate — Cloud Foundations | Amazon Web Services | 2025 |
 | 📊 Data Analysis with Python | IBM / Coursera | 2025 |
 | 🏗️ Bootcamp Arquitectura en la Nube Nivel Exploratorio | AWS | 2025 |
